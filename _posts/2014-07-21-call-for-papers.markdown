@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Call for Papers"
-date:   2021-02-18 08:00:00
+date:   2021-10-11 08:00:00
 isStaticPost: false
 ---
-STAT of ML (Statistics of Machine Learning) conference to be held from October 7 to October 8, 2021 in Prague, Czech Republic hosted by the Czech Academy of Sciences invites authors to submit their papers focusing on rigorous statistical understanding of machine learning methods.
+STAT of ML (Statistics of Machine Learning) conference to be held from October 6 to October 7, 2022 in Prague, Czech Republic hosted by the Czech Academy of Sciences invites authors to submit their papers focusing on rigorous statistical understanding of machine learning methods.
 
 ##### Submission Procedure
 
-Papers must be submitted via email directly to [Jozef Barunik](https://barunik.github.io){:target="blank"} by July 30, 2021. All submitted papers will be reviewed by the organizers.<br/>
+Papers must be submitted via email directly to [Jozef Barunik](https://barunik.github.io){:target="blank"} by July 30, 2022. All submitted papers will be reviewed by the organizers.<br/>
 
 ##### Conference Registration and Payment Details
 
