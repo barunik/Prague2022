@@ -55,7 +55,7 @@
   language: en
 
 -
-  id: 006
+  id: 007
   title: "Beta sorted portfolio"
   description: "Authors: Weining Wang, Matias Canttano, and Richard Crump <br/>
   <p>Abstract:  Portfolio sorting is popular in the empirical finance literature,
@@ -69,7 +69,7 @@ methods.
 To illustrate the relevance of our results, we revisit the size and momentum
 anomalies.</p>"
   subtype: Presentation
-  speakers: [6]
+  speakers: [7]
   language: en
 
 
