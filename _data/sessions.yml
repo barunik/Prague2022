@@ -54,6 +54,23 @@
   speakers: [6]
   language: en
 
+-
+  id: 006
+  title: "Beta sorted portfolio"
+  description: "Authors: Weining Wang, Matias Canttano, and Richard Crump <br/>
+  <p>Abstract:  Portfolio sorting is popular in the empirical finance literature,
+where it has been widely used to identify pricing anomalies. Beta sorting is
+in particular important as investors typically bid up assets according to betas. We investigate the
+statistical properties of a beta sorting procedure by casting
+ a two-step nonparametric estimator.  The first step mimics a moving window fit of time-varying betas, and the second
+step resembles a portfolio sorting by a partition estimator.
+Working with conditional betas, we present valid uniform asymptotic inference
+methods.
+To illustrate the relevance of our results, we revisit the size and momentum
+anomalies.</p>"
+  subtype: Presentation
+  speakers: [6]
+  language: en
 
 
 
