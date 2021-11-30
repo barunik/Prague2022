@@ -85,3 +85,25 @@
   rockstar: false
   social:
     - {name: "homepage", link: "https://www.york.ac.uk/economics/our-people/staff-profiles/weining-wang/"}
+
+
+
+
+
+
+
+
+
+
+
+-
+  id: 21
+  name: "Francis"
+  surname: "Liu"
+  company: "Humboldt-Universität zu Berlin"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: francis.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/francis-liu"}
