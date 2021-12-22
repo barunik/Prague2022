@@ -87,6 +87,18 @@
     - {name: "homepage", link: "https://www.york.ac.uk/economics/our-people/staff-profiles/weining-wang/"}
 
 
+-
+  id: 8
+  name: "Lennart"
+  surname: "Ante"
+  company: "University of Hamburg"
+  title: "Professor"
+  bio: '<p></p>'
+  thumbnailUrl: Lennart.png
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://lennartante.com"}
+
 
 
 

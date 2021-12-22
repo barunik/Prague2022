@@ -72,6 +72,14 @@ anomalies.</p>"
   speakers: [7]
   language: en
 
+-
+  id: 008
+  title: "The relationship between stablecoin transfers and the returns and trading volume of Bitcoin"
+  description: "Authors: Lennart Ante <br/>
+  <p>Abstract:  TBA</p>"
+  subtype: Presentation
+  speakers: [8]
+  language: en
 
 
 
