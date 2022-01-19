@@ -106,7 +106,7 @@
   company: " Duisburg-Essen University"
   title: "Professor"
   bio: '<p></p>'
-  thumbnailUrl: denis.png
+  thumbnailUrl: denis.jpg
   rockstar: false
   social:
     - {name: "homepage", link: "https://www.uni-due.de/~hm0124/"}
