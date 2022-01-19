@@ -81,6 +81,14 @@ anomalies.</p>"
   speakers: [8]
   language: en
 
+-
+  id: 009
+  title: "GAN Models overview"
+  description: "Authors: Denis Belomestny <br/>
+  <p>Abstract:  TBA</p>"
+  subtype: Presentation
+  speakers: [9]
+  language: en
 
 
 

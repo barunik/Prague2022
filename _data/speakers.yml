@@ -99,6 +99,17 @@
   social:
     - {name: "homepage", link: "https://lennartante.com"}
 
+-
+  id: 9
+  name: "Denis"
+  surname: "Belomestny"
+  company: " Duisburg-Essen University"
+  title: "Professor"
+  bio: '<p></p>'
+  thumbnailUrl: denis.png
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.uni-due.de/~hm0124/"}
 
 
 
