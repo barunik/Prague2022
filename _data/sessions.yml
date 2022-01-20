@@ -90,6 +90,14 @@ anomalies.</p>"
   speakers: [9]
   language: en
 
+-
+  id: 010
+  title: "On the statistical theory of deep learning"
+  description: "Authors: Sophie Langer <br/>
+  <p>Abstract:  TBA</p>"
+  subtype: Presentation
+  speakers: [10]
+  language: en
 
 
 
