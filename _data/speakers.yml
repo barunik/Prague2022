@@ -110,17 +110,18 @@
   rockstar: false
   social:
     - {name: "homepage", link: "https://www.uni-due.de/~hm0124/"}
+-
 
-id: 10
-name: "Sophie"
-surname: "Langer"
-company: " Technische Universität Darmstadt"
-title: "Professor"
-bio: '<p></p>'
-thumbnailUrl: sophie.jpg
-rockstar: false
-social:
-  - {name: "homepage", link: "https://www.mathematik.tu-darmstadt.de/stochastik/personen_agsto/team_details_7872.de.jsp"}
+  id: 10
+  name: "Sophie"
+  surname: "Langer"
+  company: " Technische Universität Darmstadt"
+  title: "Professor"
+  bio: '<p></p>'
+  thumbnailUrl: sophie.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.mathematik.tu-darmstadt.de/stochastik/personen_agsto/team_details_7872.de.jsp"}
 
 
 
