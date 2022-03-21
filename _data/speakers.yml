@@ -142,3 +142,76 @@
   rockstar: false
   social:
     - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/francis-liu"}
+
+-
+  id: 22
+  name: " Min-Bin"
+  surname: "Lin"
+  company: "Humboldt-Universität zu Berlin"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: minbinlin.png
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/min-bin-lin"}
+
+
+-
+  id: 23
+  name: "Konstantin"
+  surname: "Häusler"
+  company: "Humboldt-Universität zu Berlin"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: konstantin.jpeg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/konstantin-haeusler"}
+
+-
+  id: 24
+  name: "Bruno"
+  surname: "Spilak"
+  company: "Humboldt-Universität zu Berlin"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: bruno.png
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/bruno-spilak"}
+
+-
+  id: 25
+  name: "Yifu"
+  surname: "Wang"
+  company: "Humboldt-Universität zu Berlin"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: yifuwang.jpeg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/yifu_wang/yifu-wang"}
+
+-
+  id: 26
+  name: "Zijin"
+  surname: "Wang"
+  company: "Humboldt-Universität zu Berlin"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: zijinwang.jpeg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/zijin_wang_folder/zijin-wang"}
+
+-
+  id: 27
+  name: "Rui"
+  surname: "Ren"
+  company: "Humboldt-Universität zu Berlin"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: ruiren.png
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/lvb/members/personalpages/renrui"}

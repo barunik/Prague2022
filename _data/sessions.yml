@@ -111,8 +111,59 @@ anomalies.</p>"
   speakers: [21]
   language: en
 
+-
+    id: 022
+    title: "Volatility risk of cryptocurrencies, Blockchain characteristics and Economic attributes"
+    description: "Authors:  Min-Bin Lin<br/>
+    <p>Abstract:   TBA </p>"
+    subtype: Presentation
+    speakers: [22]
+    language: en
 
+-
+    id: 023
+    title: "ETF construction on CRIX "
+    description: "Authors:  Konstantin Häusler<br/>
+    <p>Abstract:   TBA </p>"
+    subtype: Presentation
+    speakers: [23]
+    language: en
 
+-
+    id: 024
+    title: "Does non-linear factorization help building a better portfolio?"
+    description: "Authors:  Bruno Spilak<br/>
+    <p>Abstract:   TBA </p>"
+    subtype: Presentation
+    speakers: [24]
+    language: en
+
+-
+    id: 025
+    title: "Realized Networks of Cryptocurrencies"
+    description: "Authors:  Yifu Wang<br/>
+    <p>Abstract:   TBA </p>"
+    subtype: Presentation
+    speakers: [25]
+    language: en
+
+-
+    id: 026
+    title: "Minimum Spanning Tree in Volatility Clustering"
+    description: "Authors:  Zijin Wang<br/>
+    <p>Abstract:   TBA </p>"
+    subtype: Presentation
+    speakers: [26]
+    language: en
+
+-
+    id: 027
+    title: "Time-varying sentiment network"
+    description: "Authors:  Rui Ren<br/>
+    <p>Abstract:   TBA </p>"
+    subtype: Presentation
+    speakers: [27]
+    language: en
 
 ###### The rest
 
