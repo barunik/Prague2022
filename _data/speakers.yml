@@ -123,20 +123,6 @@
   social:
     - {name: "homepage", link: "https://www.mathematik.tu-darmstadt.de/stochastik/personen_agsto/team_details_7872.de.jsp"}
 
--
-
-  id: 11
-  name: "Matthias"
-  surname: "Fengler"
-  company: " University of St.Gallen"
-  title: "Professor"
-  bio: '<p></p>'
-  thumbnailUrl: matthias.jpg
-  rockstar: false
-  social:
-    - {name: "homepage", link: "https://sites.google.com/site/mrfengler02/"}
-
-
 
 
 

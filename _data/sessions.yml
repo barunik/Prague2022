@@ -47,7 +47,7 @@
 
 -
   id: 006
-  title: "TBA"
+  title: "Adaptive Factor Modeling"
   description: "Authors: Mathias Fengler<br/>
   <p>Abstract:  </p>"
   subtype: Presentation
@@ -97,15 +97,6 @@ anomalies.</p>"
   <p>Abstract:  TBA</p>"
   subtype: Presentation
   speakers: [10]
-  language: en
-
--
-  id: 011
-  title: "Adaptive Factor Modeling"
-  description: "Authors: Matthias Fengler <br/>
-  <p>Abstract:  TBA</p>"
-  subtype: Presentation
-  speakers: [11]
   language: en
 
 
