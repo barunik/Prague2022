@@ -213,3 +213,15 @@
   rockstar: false
   social:
     - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/lvb/members/personalpages/renrui"}
+
+-
+  id: 28
+  name: "Ilyas"
+  surname: "Agakishiev"
+  company: "Humboldt-Universität zu Berlin"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: agakishiev.jpeg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/ilyas-agakishiev/Ilyas%20Agakishiev"}

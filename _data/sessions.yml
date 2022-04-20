@@ -164,6 +164,15 @@ anomalies.</p>"
     speakers: [27]
     language: en
 
+-
+    id: 028
+    title: "Regime-Switching Reinforcement Learning for Portfolio"
+    description: "Authors:  Ilyas Agakishiev<br/>
+    <p>Abstract:   TBA </p>"
+    subtype: Presentation
+    speakers: [28]
+    language: en
+
 ###### The rest
 
 
