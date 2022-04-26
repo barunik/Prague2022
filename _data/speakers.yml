@@ -74,18 +74,6 @@
   social:
     - {name: "homepage", link: "https://sites.google.com/site/mrfengler02/"}
 
--
-  id: 7
-  name: "Weining"
-  surname: "Wang"
-  company: "University of York"
-  title: "Professor"
-  bio: '<p></p>'
-  thumbnailUrl: weining.jpeg
-  rockstar: false
-  social:
-    - {name: "homepage", link: "https://www.york.ac.uk/economics/our-people/staff-profiles/weining-wang/"}
-
 
 -
   id: 8
