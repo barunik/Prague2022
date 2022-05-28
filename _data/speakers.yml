@@ -52,15 +52,15 @@
 
 -
   id: 5
-  name: "Cathy"
-  surname: "Yi-Hsuan Chen"
-  company: "Adam Smith Business School, University of Glasgow"
+  name: "Veronika"
+  surname: "Rockova"
+  company: "University of Chicago Booth School of Business"
   title: "Professor"
   bio: '<p> </p>'
-  thumbnailUrl: cathy.jpg
+  thumbnailUrl: veronika.jpg
   rockstar: false
   social:
-    - {name: "homepage", link: "https://www.gla.ac.uk/schools/business/staff/cathyyi-hsuanchen//"}
+    - {name: "homepage", link: "http://veronikarock.com"}
 
 -
   id: 6
@@ -73,6 +73,18 @@
   rockstar: false
   social:
     - {name: "homepage", link: "https://sites.google.com/site/mrfengler02/"}
+
+-
+  id: 7
+  name: "Cathy"
+  surname: "Yi-Hsuan Chen"
+  company: "Adam Smith Business School, University of Glasgow"
+  title: "Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: cathy.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.gla.ac.uk/schools/business/staff/cathyyi-hsuanchen//"}
 
 
 -

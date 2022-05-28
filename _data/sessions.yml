@@ -30,7 +30,7 @@
 -
   id: 004
   title: "TBA"
-  description: "Authors: Dolores Romero Morales<br/>
+  description: "Authors: Jianqing Fan<br/>
   <p>Abstract:  TBA</p>"
   subtype: Presentation
   speakers: [4]
@@ -38,12 +38,13 @@
 
 -
   id: 005
-  title: "TBA"
-  description: "Authors: Cathy Yi-Hsuan Chen<br/>
-  <p>Abstract:  </p>"
+  title: "Metropolis-Hastings via Classification"
+  description: "Authors: Jianqing Fan<br/>
+  <p>Abstract:  This paper develops a Bayesian computational platform at the interface between posterior sampling and optimization in models whose marginal likelihoods are difficult to evaluate. Inspired by contrastive learning and Generative Adversarial Networks (GAN), we reframe the likelihood function estimation problem as a classification problem. Pitting a Generator, who simulates fake data, against a Classifier, who tries to distinguish them from the real data, one obtains likelihood (ratio) estimators which can be plugged into the Metropolis-Hastings algorithm. The resulting Markov chains generate, at a steady state, samples from an approximate posterior whose asymptotic properties we characterize. Drawing upon connections with empirical Bayes and Bayesian mis-specification, we quantify the convergence rate in terms of the contraction speed of the actual posterior and the convergence rate of the Classifier. Asymptotic normality results are also provided which justify the inferential potential of our approach. We illustrate the usefulness of our approach on examples which have challenged for existing Bayesian likelihood-free approaches.</p>"
   subtype: Presentation
   speakers: [5]
   language: en
+
 
 -
   id: 006
@@ -53,21 +54,11 @@
   subtype: Presentation
   speakers: [6]
   language: en
-
 -
   id: 007
-  title: "Beta sorted portfolio"
-  description: "Authors: Weining Wang, Matias Canttano, and Richard Crump <br/>
-  <p>Abstract:  Portfolio sorting is popular in the empirical finance literature,
-where it has been widely used to identify pricing anomalies. Beta sorting is
-in particular important as investors typically bid up assets according to betas. We investigate the
-statistical properties of a beta sorting procedure by casting
- a two-step nonparametric estimator.  The first step mimics a moving window fit of time-varying betas, and the second
-step resembles a portfolio sorting by a partition estimator.
-Working with conditional betas, we present valid uniform asymptotic inference
-methods.
-To illustrate the relevance of our results, we revisit the size and momentum
-anomalies.</p>"
+  title: "TBA"
+  description: "Authors: Cathy Yi-Hsuan Chen<br/>
+  <p>Abstract:  </p>"
   subtype: Presentation
   speakers: [7]
   language: en
