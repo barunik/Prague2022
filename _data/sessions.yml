@@ -29,9 +29,9 @@
 
 -
   id: 004
-  title: "TBA"
-  description: "Authors: Jianqing Fan<br/>
-  <p>Abstract:  TBA</p>"
+  title: "Structural Deep Learning in Conditional Asset Pricing"
+  description: "Authors: Jianqing Fan, Tracy Ke, Yuan Liao, and Andreas Neuhierl<br/>
+  <p>Abstract:  We develop new financial economics theory guided structural nonparametric methods for estimating conditional asset pricing models using deep neural networks, by employing time-varying conditional information on alphas and betas carried by firm-specific characteristics. Contrary to many applications of neural networks in economics, we can open the “black box” of machine learning predictions by incorporating financial economics theory into the learning, and provide an economic interpretation of the successful  predictions obtained from neural networks,  by decomposing the neural predictors as risk-related and mispricing components. Our estimation method starts with period-by-period  cross-sectional deep learning, followed by local PCAs to capture time-varying features such as latent factors of the model.  We formally establish the asymptotic theory of the structural deep-learning estimators, which apply to both in-sample fit and out-of-sample predictions. We also illustrate the “double-descent-risk” phenomena associated with over-parametrized predictions, which justifies the use of over-fitting machine learning methods.</p>"
   subtype: Presentation
   speakers: [4]
   language: en
