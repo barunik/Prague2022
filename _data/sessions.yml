@@ -10,9 +10,9 @@
 
 -
   id: 002
-  title: "TBA"
-  description: "Authors: Jozef Barunik<br/>
-  <p>Abstract:  </p>"
+  title: "Currency Network Risk"
+  description: "Authors: Mykola Babiak and Jozef Barunik<br/>
+  <p>Abstract:  This paper identifies new currency risk stemming from a network of idiosyncratic option-based currency volatilities and shows how such network risk is priced in the cross-section of currency returns. A portfolio that buys net-receivers and sells net-transmitters of short-term linkages between currency volatilities generates a significant Sharpe ratio. The network strategy formed on causal connections is uncorrelated with popular benchmarks and generates a significant alpha, while network returns formed on aggregate connections, which are driven by a strong correlation component, are partially subsumed by standard factors. Long-term linkages are priced less, indicating a downward-sloping term structure of network risk. </p>"
   subtype: Presentation
   speakers: [2]
   language: en
