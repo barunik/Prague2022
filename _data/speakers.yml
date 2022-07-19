@@ -123,6 +123,19 @@
   social:
     - {name: "homepage", link: "https://www.mathematik.tu-darmstadt.de/stochastik/personen_agsto/team_details_7872.de.jsp"}
 
+-
+
+  id: 11
+  name: "Martin"
+  surname: "Spindler"
+  company: "University of Hamburg"
+  title: "Professor"
+  bio: '<p></p>'
+  thumbnailUrl: spindler.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://sites.google.com/site/spindlermartin/"}
+
 
 
 
