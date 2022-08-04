@@ -111,7 +111,6 @@
   social:
     - {name: "homepage", link: "https://www.uni-due.de/~hm0124/"}
 -
-
   id: 10
   name: "Sophie"
   surname: "Langer"
@@ -124,7 +123,6 @@
     - {name: "homepage", link: "https://www.mathematik.tu-darmstadt.de/stochastik/personen_agsto/team_details_7872.de.jsp"}
 
 -
-
   id: 11
   name: "Martin"
   surname: "Spindler"
@@ -137,6 +135,29 @@
     - {name: "homepage", link: "https://sites.google.com/site/spindlermartin/"}
 
 
+-
+  id: 12
+  name: "Grzegorz"
+  surname: "Dudek"
+  company: "Czestochowa University of Technology"
+  title: "Associate Professor"
+  bio: '<p></p>'
+  thumbnailUrl: dudek.png
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://gdudek.el.pcz.pl"}
+
+-
+  id: 13
+  name: "Petre"
+  surname: "Caraiani"
+  company: "Institute for Economic Forecasting at Romanian Academy"
+  title: "Associate Professor"
+  bio: '<p></p>'
+  thumbnailUrl: Caraiani.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "http://www.imba.fabiz.ase.ro/member/petre-caraiani/"}
 
 
 

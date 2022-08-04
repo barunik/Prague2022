@@ -99,7 +99,46 @@
   speakers: [11]
   language: en
 
+-
+  id: 012
+  title: "Evolution of Hybrid Models Combining Exponential Smoothing and Recurrent Neural Networks
+for Forecasting Time Series with Complex Seasonality"
+  description: "Authors: Grzegorz Dudek, Slawek Smyl, Pawel Pelka <br/>
+  <p>Abstract:  Forecasting time series with multiple seasonal periods is a challenging problem due to the complicated
+  relationship between input and output data. To solve this problem, a forecasting model should be equipped with
+  appropriate mechanisms to deal with short- and long-term dynamics as well as a trend and variable variance.
+  In this study, we show an evolution of the hybrid and hierarchical models we have developed recently for
+  forecasting time series with complex seasonal pattern. The models are derived from the winning submission
+  to the M4 forecasting competition and produce point forecasts as well as predictive intervals. They combine
+  exponential smoothing (ES) and gated recurrent neural networks (RNN) in a hierarchical architecture composed
+  of a global part trained across many time series (cross-learning) and a time series specific part. ES extracts
+  dynamically the main components of each individual series and enables the model to learn their representation.
+  A multi-layer RNN is equipped with dilated recurrent cells designed to efficiently model short-term, long-term
+  and seasonal dependencies in time series. The most advanced models are based on a new attentive dilated recurrent
+  cell, which implements an attention mechanism for dynamic weighting of input vector components. To improve the internal
+  series representation, RNN learns simultaneously both the ES parameters and the main mapping function transforming
+  inputs into forecasts. Our most recent solution is a contextually enhanced model which extends per-series input data
+  with information contained in the context series (representative series) and thus supports forecasting individual series.
+  We evaluate the models on the hourly electricity demand forecasting for 35 European countries. The results demonstrate
+  that our models outperform both statistical and state-of-the-art machine learning models in terms of accuracy.</p>"
+  subtype: Presentation
+  speakers: [12]
+  language: en
 
+-
+  id: 013
+  title: "Do Monetary Policy Shocks Impact the Network Structure of the Financial Markets?"
+  description: "Authors: Dan Gabriel Anghel and Petre Caraiani <br/>
+  <p>Abstract:  Monetary policy shocks are known to affect financial markets. However, it is less clear how a monetary
+  policy shock can affect their network structure. We estimate daily total connectedness and net connectedness for 10 industry
+  portfolio indices based on intraday data. Using event-based regressions, we show that total connectedness is positively
+  influenced by surprise changes in the interest rates. Net connectedness of some industry indices is also influenced,
+  some in a positive, while others in a negative direction, revealing how monetary policy shocks propagate through the
+  stock market network at a high-frequency level. The results point to the sectoral differences in the propagation of the
+  monetary policy shocks.</p>"
+  subtype: Presentation
+  speakers: [13]
+  language: en
 
 -
   id: 021
