@@ -150,6 +150,15 @@ for Forecasting Time Series with Complex Seasonality"
   language: en
 
 -
+  id: 015
+  title: "Locally Persistent Economic Time Series"
+  description: "Authors: Jozef Barunik, Lukas Vacha<br/>
+  <p>Abstract:  </p>"
+  subtype: Presentation
+  speakers: [15]
+  language: en
+
+-
   id: 021
   title: " Crypto-backed P2P Lending"
   description: "Authors: Francis Liu <br/>
@@ -228,6 +237,15 @@ for Forecasting Time Series with Complex Seasonality"
     <p>Abstract:   TBA </p>"
     subtype: Presentation
     speakers: [29]
+    language: en
+
+-
+    id: 030
+    title: "Learning Vector Autoregression"
+    description: "Authors:  Lubos Hanus<br/>
+    <p>Abstract:   TBA </p>"
+    subtype: Presentation
+    speakers: [30]
     language: en
 
 ###### The rest
