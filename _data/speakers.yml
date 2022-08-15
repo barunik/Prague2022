@@ -159,6 +159,17 @@
   social:
     - {name: "homepage", link: "http://www.imba.fabiz.ase.ro/member/petre-caraiani/"}
 
+-
+  id: 14
+  name: "Andrea"
+  surname: "Consiglio"
+  company: "Università di Palermo"
+  title: "Associate Professor"
+  bio: '<p></p>'
+  thumbnailUrl: andrea.jpeg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "http://bit.ly/AndreaConsiglio"}
 
 
 
