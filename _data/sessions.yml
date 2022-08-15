@@ -248,6 +248,15 @@ for Forecasting Time Series with Complex Seasonality"
     speakers: [30]
     language: en
 
+-
+    id: 031
+    title: "Quantile maximizing portfolio selection"
+    description: "Authors:  Martin Hronec<br/>
+    <p>Abstract:   We study out-of-sample performance of portfolio selecting investor with $\tau$-quantile preferences. Investor's risk aversion is captured by $\tau$, where more risk-averse investor maximizes lower $\tau$-quantile. Using number of empirical and simulated datasets we document differences in optimal portfolios across different levels of risk aversion. We compare optimal quantile portfolios with equal-weighting and global minimum variance portfolios. </p>"
+    subtype: Presentation
+    speakers: [31]
+    language: en
+
 ###### The rest
 
 
