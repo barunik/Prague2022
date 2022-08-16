@@ -318,3 +318,15 @@
   rockstar: false
   social:
     - {name: "homepage", link: "http://ies.fsv.cuni.cz/en/staff/hronec"}
+
+-
+  id: 32
+  name: "Xinwen"
+  surname: "Ni"
+  company: "Humboldt-Universität zu Berlin"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: xinwen.jpeg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/lvb/members/personalpages/nixinwen"}

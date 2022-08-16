@@ -257,6 +257,15 @@ for Forecasting Time Series with Complex Seasonality"
     speakers: [31]
     language: en
 
+-
+    id: 032
+    title: "Digging into SGX Reports with Machine Learning"
+    description: "Authors:  Xinwen Ni<br/>
+    <p>Abstract:   TBA </p>"
+    subtype: Presentation
+    speakers: [32]
+    language: en
+
 ###### The rest
 
 
