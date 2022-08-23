@@ -20,7 +20,8 @@
 
 -
   id: 003
-  title: "TBA"
+  title: "Stochastic dominance constrained portfolio optimization with
+distortion risk measures"
   description: "Authors: Milos Kopa<br/>
   <p>Abstract:  TBA </p>"
   subtype: Presentation
@@ -159,6 +160,16 @@ for Forecasting Time Series with Complex Seasonality"
   language: en
 
 -
+    id: 016
+    title: "Selected Results on Statistical Depth"
+    description: "Authors:  Petra Laketa<br/>
+    <p>Abstract: </p>"
+    subtype: Presentation
+    speakers: [16]
+    language: en
+
+
+-
   id: 021
   title: " Crypto-backed P2P Lending"
   description: "Authors: Francis Liu <br/>
@@ -274,6 +285,15 @@ for Forecasting Time Series with Complex Seasonality"
     subtype: Presentation
     speakers: [33]
     language: en
+
+-
+  id: 034
+  title: "Deep Reinforcement Learning and Portfolio Selection"
+  description: "Authors: Lenka Nechvatalova<br/>
+  <p>Abstract:   TBA </p>"
+  subtype: Presentation
+  speakers: [34]
+  language: en
 
 ###### The rest
 
