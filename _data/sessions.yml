@@ -295,6 +295,17 @@ for Forecasting Time Series with Complex Seasonality"
   speakers: [34]
   language: en
 
+-
+  id: 035
+  title: "Robo-advising under rare disasters: inferring an investor's risk aversion"
+  description: "Authors: Jiawen Liang<br/>
+  <p>Abstract:   We develop a novel framework to learn investors' risk preferences with low-resolution data. Low resolution arises from a short trajectory that records investors' portfolio choices, especially in the presence of disasters. More importantly, the observed portfolio choice is contaminated by behavior bias.
+We start with an inverse optimization to minimise biases and infer risk aversion. We propose an algorithm that incorporates the smoothed bootstrap to inverse optimization. The smoothed bootstrap helps oversample the required data from the kernel distribution, so as to support the inference of risk aversion under disasters. Additionally, we regularize the dimension of the estimated risk aversion by the Lasso shrinkage technique. We show that the algorithm's risk aversion asymptotically converges to the true risk aversion. Based on the learned risk aversion, we adopt reinforcement learning to find the optimal investment strategies. Finally, using real data, we demonstrate that Robo-advisors adopting our approach best act on behalf of investors and mitigate the potential behavior bias. </p>"
+  subtype: Presentation
+  speakers: [35]
+  language: en
+
+
 ###### The rest
 
 
