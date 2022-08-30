@@ -372,7 +372,7 @@
   company: "The University of Glasgow"
   title: "PhD student"
   bio: '<p> </p>'
-  #thumbnailUrl: nechvatalova.jpg
+  thumbnailUrl: PhotoJiawen.jpg
   rockstar: false
   social:
     - {name: "homepage", link: "https://www.gla.ac.uk/pgrs/jiawenliang/"}
