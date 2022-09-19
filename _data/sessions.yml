@@ -168,6 +168,17 @@ for Forecasting Time Series with Complex Seasonality"
     speakers: [16]
     language: en
 
+-
+    id: 017
+    title: "Numeraire Invariance of the Logarithmic Utility: Price as a Likelihood
+Ratio of State Price Densities, Risk as a Density Discrepancy, Return as the Relative
+Entropy, Optimality of Static Portfolios, Bayesian Markets "
+    description: "Authors:  Jan Vecer<br/>
+    <p>Abstract: </p>"
+    subtype: Presentation
+    speakers: [16]
+    language: en
+
 
 -
   id: 021
