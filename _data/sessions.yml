@@ -174,9 +174,30 @@ for Forecasting Time Series with Complex Seasonality"
 Ratio of State Price Densities, Risk as a Density Discrepancy, Return as the Relative
 Entropy, Optimality of Static Portfolios, Bayesian Markets "
     description: "Authors:  Jan Vecer<br/>
+    <p>Abstract: Utility maximization depends on the choice of the underlying riskless
+asset as a numeraire. We show that the only numeraire invariant utility
+is a logarithmic function. We also note that the prices can be expressed
+as the likelihood ratio of the respective state price densities. On the
+other side, each state price density generates an asset that corresponds
+to the log utility optimal portfolio with respect to all assets. We show
+that the expected log return of the price is a relative entropy between
+the state price densities. When the market agent that maximizes log
+utility uses a mixture distribution of the state price densities of the
+market assets, the resulting optimal portfolio is static. When the
+market agent uses a prior distribution for her market opinion
+distribution, the resulting wealth of each parameter updates in a
+Bayesian fashion. </p>"
+    subtype: Presentation
+    speakers: [17]
+    language: en
+
+-
+    id: 018
+    title: "Risk of loss reserving"
+    description: "Authors:  T. Cipra, R. Hendrych<br/>
     <p>Abstract: </p>"
     subtype: Presentation
-    speakers: [16]
+    speakers: [18]
     language: en
 
 
