@@ -337,6 +337,15 @@ We start with an inverse optimization to minimise biases and infer risk aversion
   speakers: [35]
   language: en
 
+-
+  id: 036
+  title: "Measure of stochastic non-dominance"
+  description: "Authors: Jiawen Liang<br/>
+  <p>Abstract:  </p>"
+  subtype: Presentation
+  speakers: [36]
+  language: en
+
 
 ###### The rest
 

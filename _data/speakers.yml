@@ -399,3 +399,15 @@
   rockstar: false
   social:
     - {name: "homepage", link: "https://www.gla.ac.uk/pgrs/jiawenliang/"}
+
+-
+  id: 36
+  name: "Jana"
+  surname: "Junova"
+  company: "Charles University"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: junova.jpg
+  rockstar: false
+  #social:
+  # - {name: "homepage", link: "http://karlin.mff.cuni.cz/~rusy/"}
