@@ -200,7 +200,7 @@
   company: "Charles University"
   title: "Professor"
   bio: '<p> </p>'
-  thumbnailUrl: Stanislav_nagy.jpg
+  thumbnailUrl: nagy.jpg
   rockstar: false
   #social:
   #  - {name: "homepage", link: "https://www2.karlin.mff.cuni.cz/~cipra/"}
