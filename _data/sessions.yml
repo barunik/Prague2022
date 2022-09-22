@@ -38,16 +38,6 @@ distortion risk measures"
   speakers: [4]
   language: en
 
-# -
-#  id: 005
-#  title: "Metropolis-Hastings via Classification"
-#  description: "Authors: Jianqing Fan<br/>
-#  <p>Abstract:  This paper develops a Bayesian computational platform at the interface between posterior sampling and optimization in models whose marginal likelihoods are difficult to evaluate. Inspired by contrastive learning and Generative Adversarial Networks (GAN), we reframe the likelihood function estimation problem as a classification problem. Pitting a Generator, who simulates fake data, against a Classifier, who tries to distinguish them from the real data, one obtains likelihood (ratio) estimators which can be plugged into the Metropolis-Hastings algorithm. The resulting Markov chains generate, at a steady state, samples from an approximate posterior whose asymptotic properties we characterize. Drawing upon connections with empirical Bayes and Bayesian mis-specification, we quantify the convergence rate in terms of the contraction speed of the actual posterior and the convergence rate of the Classifier. Asymptotic normality results are also provided which justify the inferential potential of our approach. We illustrate the usefulness of our approach on examples which have challenged for existing Bayesian likelihood-free approaches.</p>"
-#  subtype: Presentation
-#  speakers: [5]
-#  language: en
-
-
 -
   id: 006
   title: "Adaptive Factor Modeling"
@@ -91,15 +81,6 @@ distortion risk measures"
   subtype: Presentation
   speakers: [10]
   language: en
-
-#-
-#  id: 011
-#  title: "Uniform Inference in High-Dimensional Generalized Additive Models"
-#  description: "Authors: Philipp Bach, Sven Klaassen, Jannis Kueck, Martin Spindler <br/>
-#  <p>Abstract:  We develop a method for uniform valid confidence bands of a nonparametric component f1 in the general additive model Y=f1(X1)+…+fp(Xp)+ε in a high-dimensional setting. We employ sieve estimation and embed it in a high-dimensional Z-estimation framework allowing us to construct uniformly valid confidence bands for the first component f1. As usual in high-dimensional settings where the number of regressors p may increase with sample, a sparsity assumption is critical for the analysis. We also run simulations studies which show that our proposed method gives reliable results concerning the estimation properties and coverage properties even in small samples. Finally, we illustrate our procedure with an empirical application demonstrating the implementation and the use of the proposed method in practice.</p>"
-#  subtype: Presentation
-#  speakers: [11]
-#  language: en
 
 -
   id: 012

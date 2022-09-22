@@ -50,18 +50,6 @@
   social:
     - {name: "homepage", link: "https://fan.princeton.edu"}
 
-#-
-#  id: 5
-#  name: "Veronika"
-#  surname: "Rockova"
-#  company: "University of Chicago Booth School of Business"
-#  title: "Professor"
-#  bio: '<p> </p>'
-#  thumbnailUrl: veronika.jpg
-#  rockstar: false
-#  social:
-#    - {name: "homepage", link: "http://veronikarock.com"}
-
 -
   id: 6
   name: "Matthias"
@@ -121,19 +109,6 @@
   rockstar: false
   social:
     - {name: "homepage", link: "https://www.mathematik.tu-darmstadt.de/stochastik/personen_agsto/team_details_7872.de.jsp"}
-
-#-
-#  id: 11
-#  name: "Martin"
-#  surname: "Spindler"
-#  company: "University of Hamburg"
-#  title: "Professor"
-#  bio: '<p></p>'
-#  thumbnailUrl: spindler.jpg
-#  rockstar: false
-#  social:
-#    - {name: "homepage", link: "https://sites.google.com/site/spindlermartin/"}
-
 
 -
   id: 12
