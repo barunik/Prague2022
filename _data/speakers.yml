@@ -205,6 +205,18 @@
   #social:
   #  - {name: "homepage", link: "https://www2.karlin.mff.cuni.cz/~cipra/"}
 
+-
+  id: 20
+  name: "Martin"
+  surname: "Branda"
+  company: "Charles University"
+  title: "Assistant Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: branda.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "http://artax.karlin.mff.cuni.cz/~branm1am/indexEN.html"}
+
 
 -
   id: 21

@@ -202,6 +202,16 @@ Bayesian fashion. </p>"
     language: en
 
 -
+    id: 020
+    title: "Alternative approach to portfolio efficieny using DEA models with
+diversification"
+    description: "Authors: Martin Branda<br/>
+    <p>Abstract: </p>"
+    subtype: Presentation
+    speakers: [20]
+    language: en
+
+-
   id: 021
   title: " Crypto-backed P2P Lending"
   description: "Authors: Francis Liu <br/>
