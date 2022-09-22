@@ -50,17 +50,17 @@
   social:
     - {name: "homepage", link: "https://fan.princeton.edu"}
 
--
-  id: 5
-  name: "Veronika"
-  surname: "Rockova"
-  company: "University of Chicago Booth School of Business"
-  title: "Professor"
-  bio: '<p> </p>'
-  thumbnailUrl: veronika.jpg
-  rockstar: false
-  social:
-    - {name: "homepage", link: "http://veronikarock.com"}
+#-
+#  id: 5
+#  name: "Veronika"
+#  surname: "Rockova"
+#  company: "University of Chicago Booth School of Business"
+#  title: "Professor"
+#  bio: '<p> </p>'
+#  thumbnailUrl: veronika.jpg
+#  rockstar: false
+#  social:
+#    - {name: "homepage", link: "http://veronikarock.com"}
 
 -
   id: 6
@@ -122,17 +122,17 @@
   social:
     - {name: "homepage", link: "https://www.mathematik.tu-darmstadt.de/stochastik/personen_agsto/team_details_7872.de.jsp"}
 
--
-  id: 11
-  name: "Martin"
-  surname: "Spindler"
-  company: "University of Hamburg"
-  title: "Professor"
-  bio: '<p></p>'
-  thumbnailUrl: spindler.jpg
-  rockstar: false
-  social:
-    - {name: "homepage", link: "https://sites.google.com/site/spindlermartin/"}
+#-
+#  id: 11
+#  name: "Martin"
+#  surname: "Spindler"
+#  company: "University of Hamburg"
+#  title: "Professor"
+#  bio: '<p></p>'
+#  thumbnailUrl: spindler.jpg
+#  rockstar: false
+#  social:
+#    - {name: "homepage", link: "https://sites.google.com/site/spindlermartin/"}
 
 
 -
@@ -217,6 +217,18 @@
   rockstar: false
   social:
     - {name: "homepage", link: "https://www2.karlin.mff.cuni.cz/~cipra/"}
+
+-
+  id: 19
+  name: "Stano"
+  surname: "Nagy"
+  company: "Charles University"
+  title: "Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: Stanislav_nagy.jpg
+  rockstar: false
+  #social:
+  #  - {name: "homepage", link: "https://www2.karlin.mff.cuni.cz/~cipra/"}
 
 
 -
@@ -408,6 +420,18 @@
   title: "PhD student"
   bio: '<p> </p>'
   thumbnailUrl: junova.jpg
+  rockstar: false
+  #social:
+  # - {name: "homepage", link: "http://karlin.mff.cuni.cz/~rusy/"}
+
+-
+  id: 37
+  name: "Karel"
+  surname: "Kozmik"
+  company: "Charles University"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: kozmikkarel.jpg
   rockstar: false
   #social:
   # - {name: "homepage", link: "http://karlin.mff.cuni.cz/~rusy/"}

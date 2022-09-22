@@ -32,19 +32,20 @@ distortion risk measures"
   id: 004
   title: "Structural Deep Learning in Conditional Asset Pricing"
   description: "Authors: Jianqing Fan, Tracy Ke, Yuan Liao, and Andreas Neuhierl<br/>
-  <p>Abstract:  We develop new financial economics theory guided structural nonparametric methods for estimating conditional asset pricing models using deep neural networks, by employing time-varying conditional information on alphas and betas carried by firm-specific characteristics. Contrary to many applications of neural networks in economics, we can open the “black box” of machine learning predictions by incorporating financial economics theory into the learning, and provide an economic interpretation of the successful  predictions obtained from neural networks,  by decomposing the neural predictors as risk-related and mispricing components. Our estimation method starts with period-by-period  cross-sectional deep learning, followed by local PCAs to capture time-varying features such as latent factors of the model.  We formally establish the asymptotic theory of the structural deep-learning estimators, which apply to both in-sample fit and out-of-sample predictions. We also illustrate the “double-descent-risk” phenomena associated with over-parametrized predictions, which justifies the use of over-fitting machine learning methods.</p>"
+  <p>Abstract:  We develop new financial economics theory guided structural nonparametric methods for estimating conditional asset pricing models using deep neural networks, by employing time-varying conditional information on alphas and betas carried by firm-specific characteristics. Contrary to many applications of neural networks in economics, we can open the “black box” of machine learning predictions by incorporating financial economics theory into the learning, and provide an economic interpretation of the successful
+  predictions obtained from neural networks,  by decomposing the neural predictors as risk-related and mispricing components. Our estimation method starts with period-by-period  cross-sectional deep learning, followed by local PCAs to capture time-varying features such as latent factors of the model.  We formally establish the asymptotic theory of the structural deep-learning estimators, which apply to both in-sample fit and out-of-sample predictions. We also illustrate the "double-descent-risk" phenomena associated with over-parametrized predictions, which justifies the use of over-fitting machine learning methods.</p>"
   subtype: Presentation
   speakers: [4]
   language: en
 
--
-  id: 005
-  title: "Metropolis-Hastings via Classification"
-  description: "Authors: Jianqing Fan<br/>
-  <p>Abstract:  This paper develops a Bayesian computational platform at the interface between posterior sampling and optimization in models whose marginal likelihoods are difficult to evaluate. Inspired by contrastive learning and Generative Adversarial Networks (GAN), we reframe the likelihood function estimation problem as a classification problem. Pitting a Generator, who simulates fake data, against a Classifier, who tries to distinguish them from the real data, one obtains likelihood (ratio) estimators which can be plugged into the Metropolis-Hastings algorithm. The resulting Markov chains generate, at a steady state, samples from an approximate posterior whose asymptotic properties we characterize. Drawing upon connections with empirical Bayes and Bayesian mis-specification, we quantify the convergence rate in terms of the contraction speed of the actual posterior and the convergence rate of the Classifier. Asymptotic normality results are also provided which justify the inferential potential of our approach. We illustrate the usefulness of our approach on examples which have challenged for existing Bayesian likelihood-free approaches.</p>"
-  subtype: Presentation
-  speakers: [5]
-  language: en
+# -
+#  id: 005
+#  title: "Metropolis-Hastings via Classification"
+#  description: "Authors: Jianqing Fan<br/>
+#  <p>Abstract:  This paper develops a Bayesian computational platform at the interface between posterior sampling and optimization in models whose marginal likelihoods are difficult to evaluate. Inspired by contrastive learning and Generative Adversarial Networks (GAN), we reframe the likelihood function estimation problem as a classification problem. Pitting a Generator, who simulates fake data, against a Classifier, who tries to distinguish them from the real data, one obtains likelihood (ratio) estimators which can be plugged into the Metropolis-Hastings algorithm. The resulting Markov chains generate, at a steady state, samples from an approximate posterior whose asymptotic properties we characterize. Drawing upon connections with empirical Bayes and Bayesian mis-specification, we quantify the convergence rate in terms of the contraction speed of the actual posterior and the convergence rate of the Classifier. Asymptotic normality results are also provided which justify the inferential potential of our approach. We illustrate the usefulness of our approach on examples which have challenged for existing Bayesian likelihood-free approaches.</p>"
+#  subtype: Presentation
+#  speakers: [5]
+#  language: en
 
 
 -
@@ -91,14 +92,14 @@ distortion risk measures"
   speakers: [10]
   language: en
 
--
-  id: 011
-  title: "Uniform Inference in High-Dimensional Generalized Additive Models"
-  description: "Authors: Philipp Bach, Sven Klaassen, Jannis Kueck, Martin Spindler <br/>
-  <p>Abstract:  We develop a method for uniform valid confidence bands of a nonparametric component f1 in the general additive model Y=f1(X1)+…+fp(Xp)+ε in a high-dimensional setting. We employ sieve estimation and embed it in a high-dimensional Z-estimation framework allowing us to construct uniformly valid confidence bands for the first component f1. As usual in high-dimensional settings where the number of regressors p may increase with sample, a sparsity assumption is critical for the analysis. We also run simulations studies which show that our proposed method gives reliable results concerning the estimation properties and coverage properties even in small samples. Finally, we illustrate our procedure with an empirical application demonstrating the implementation and the use of the proposed method in practice.</p>"
-  subtype: Presentation
-  speakers: [11]
-  language: en
+#-
+#  id: 011
+#  title: "Uniform Inference in High-Dimensional Generalized Additive Models"
+#  description: "Authors: Philipp Bach, Sven Klaassen, Jannis Kueck, Martin Spindler <br/>
+#  <p>Abstract:  We develop a method for uniform valid confidence bands of a nonparametric component f1 in the general additive model Y=f1(X1)+…+fp(Xp)+ε in a high-dimensional setting. We employ sieve estimation and embed it in a high-dimensional Z-estimation framework allowing us to construct uniformly valid confidence bands for the first component f1. As usual in high-dimensional settings where the number of regressors p may increase with sample, a sparsity assumption is critical for the analysis. We also run simulations studies which show that our proposed method gives reliable results concerning the estimation properties and coverage properties even in small samples. Finally, we illustrate our procedure with an empirical application demonstrating the implementation and the use of the proposed method in practice.</p>"
+#  subtype: Presentation
+#  speakers: [11]
+#  language: en
 
 -
   id: 012
@@ -200,6 +201,14 @@ Bayesian fashion. </p>"
     speakers: [18]
     language: en
 
+-
+    id: 019
+    title: "Geometry of halfspace depth"
+    description: "Authors: Nagy S.<br/>
+    <p>Abstract: </p>"
+    subtype: Presentation
+    speakers: [19]
+    language: en
 
 -
   id: 021
@@ -340,10 +349,19 @@ We start with an inverse optimization to minimise biases and infer risk aversion
 -
   id: 036
   title: "Measure of stochastic non-dominance"
-  description: "Authors: Jiawen Liang<br/>
+  description: "Authors: Jana Junova<br/>
   <p>Abstract:  </p>"
   subtype: Presentation
   speakers: [36]
+  language: en
+
+-
+  id: 037
+  title: "Crypto-Portfolio Optimization with Stochastic Dominance "
+  description: "Authors: Karel Kozmik <br/>
+  <p>Abstract:  </p>"
+  subtype: Presentation
+  speakers: [37]
   language: en
 
 
