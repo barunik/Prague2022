@@ -58,9 +58,24 @@ distortion risk measures"
   language: en
 -
   id: 007
-  title: "Are there ``winner-takes-it-all'' effects in blockchain user adoption?"
-  description: "Authors: Cathy Yi-Hsuan Chen<br/>
-  <p>Abstract:  </p>"
+  title: "Modelling news-based uncertainty and its impact on the volatility feedback effect"
+  description: "Authors: Cathy Yi-Hsuan Chen, Jozef Barunik and Ankush Agarwal<br/>
+  <p>Abstract: We consider a general framework that allows the coexistence of a stochastic volatility
+  factor and a stochastic uncertainty factor. Motivated by the stylised facts of the volatility and
+  uncertainty factor including mean reversion, leverage effect, and clustering, we characterise these
+  two processes as the  CIR-type process and model their interplay with the (log) price process.
+We introduce a novel ``bottom-up'' uncertainty measure based on cross-sectional dispersion of firm-level
+news-based sentiment score. We also consider a ``top-down'' measure, the economic policy uncertainty (EPU)
+of Baker et al (2016). Compared to the volatility process, the uncertainty process exhibits a prompt
+mean reversion and a modest feedback effect on the price process. We obtain a positive feedback effect
+from both volatility and uncertainty factors. It is worth noting that like the volatility factor the
+uncertainty factor exhibits a ``continuous-time'' leverage effect albeit less prominent. Concerning the
+correlated Brownian motions in the system, we derive the desired propositions for the volatility feedback
+w.r.t the two risk factors and correct the potential biases in the population regression. Using the NASDAQ
+news for the construction of an uncertainty measure, we calibrate the model parameters and conclude that
+given a salient correlated Brownian motion between the price and volatility process, the population
+feedback coefficient corresponding to the volatility factor is more significant than the uncertainty factor.
+The results are robust for the considered uncertainty measures.  </p>"
   subtype: Presentation
   speakers: [7]
   language: en
