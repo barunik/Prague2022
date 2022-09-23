@@ -224,12 +224,12 @@
     - {
     	startTime: "15:10",
     	endTime: "15:25",
-    	sessionIds: [030]
+    	sessionIds: [033]
     }
     - {
       	startTime: "15:25",
       	endTime: "15:40",
-      	sessionIds: [033]
+      	sessionIds: [030]
       }
 
     - {
